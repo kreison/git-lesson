@@ -5,7 +5,8 @@ const MainPage = () => {
     <div>
       fjkdljfk  
       fjkdjf
-      
+      <p>fjkdsjf</p>
+      <h1>hello world</h1>
     </div>
   );
 };
